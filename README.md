@@ -45,10 +45,6 @@ python -m ipykernel install --user --name=hackathon-env --display-name="hackatho
 ```
 ---
 
-### Environment Files
-- `requirements.uv`: Lock file for UV (ensures exact same dependencies).
-
-
 ## Adding new packages
 
 If you need add new packages:
