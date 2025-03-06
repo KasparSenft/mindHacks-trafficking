@@ -1,5 +1,3 @@
-# Artificial Junior AI Engineer Assessment
-
 ## Getting Started
 
 ### 1. Clone the Repository
