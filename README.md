@@ -17,14 +17,12 @@ uv venv --python 3.12.9
 ```
 
 ### 4. Activate the virtual environment
-el:
 
 ```bash
 source .venv/bin/activate
 ```
 
 ### 5. Install project dependencies
-Launch the Jupyter Notebook:
 ```bash
 uv pip install -r requirements.txt
 ```
@@ -47,7 +45,7 @@ python -m ipykernel install --user --name=hackathon-env --display-name="hackatho
 
 ## Adding new packages
 
-If you need add new packages:
+If you need to add new packages:
 
 
 ```bash
